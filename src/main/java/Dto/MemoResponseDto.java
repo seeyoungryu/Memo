@@ -1,3 +1,5 @@
+package Dto;
+
 import lombok.Getter;
 
 @Getter

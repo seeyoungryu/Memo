@@ -1,2 +1,4 @@
-package Dto;public class MemoRequestDto {
+package Dto;
+
+public class MemoRequestDto {
 }
